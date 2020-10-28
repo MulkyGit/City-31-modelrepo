@@ -1,0 +1,13 @@
+"SurfaceGGX"
+{
+	"$basetexture"			"models\static_props\dead_cow_02"
+	"$bumpmap" 				"models\static_props\dead_cow_norm"
+	"$phongexponenttexture"	"models\static_props\dead_cow_exp"
+	
+	"$roughnessmultiplier"	"1.8"
+	"$fuzz"					"1"
+	"$fuzzmultiplier"		"0.1"
+	"$subsurfacescattering"	"1"
+}
+
+

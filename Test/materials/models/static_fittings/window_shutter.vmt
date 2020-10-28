@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/static_fittings/window_shutter"
+	"$bumpmap"	"models/static_fittings/window_shutter_norm"
+	//"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask"	"1"
+}

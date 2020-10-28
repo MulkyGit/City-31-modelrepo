@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\static_fittings\fence_sticks"
+	"$alphatest"	"1"
+	"$nocull" 	"1"
+
+}
+

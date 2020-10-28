@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"models/static_fittings/prop_italy_beams"
+	"$bumpmap"   			"models/static_fittings/prop_italy_beams_norm"
+	"$masks"				"models/static_fittings/prop_italy_beams_mask"
+	"$phongexponenttexture"		"models/static_fittings/prop_italy_beams_mask"
+
+	"$roughnessmultiplier" 		".75"
+
+	"$phong"				"1"
+	"$phongboost"			".8"
+	"$phongexponent"			"180"
+	
+	"$envmapfresnel"			"2"
+	"$envmap"			"env_cubemap"
+	"$envmaptint"			"[0.06 0.06 0.06]"
+	"$normalmapalphaenvmapmask"	"1"
+
+	"$surfaceprop" 				"wood"
+	"%keywords" 				"doi"
+}

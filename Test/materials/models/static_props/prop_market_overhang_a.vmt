@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+"$basetexture"				"models\static_props\prop_market_overhang_a"
+"$envmapmask" 				"models\static_props\prop_market_overhang_a_spec"
+"$surfaceprop" 				"metal"
+"$blendtintbybasealpha"			"1"
+"$detail" 					"detail\metal_detail_01"
+"$detailscale" 				"15"
+"$detailblendfactor" 			".225"
+"$envmap" 				"env_cubemap"
+"$envmaptint" 				"[.725 .725 .725]"
+"$envmapcontrast" 				".6"
+"%keywords" 				"ins2, frame, overhang, market"
+}

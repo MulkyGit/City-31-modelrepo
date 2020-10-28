@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+"$basetexture"				"models/static_props/prop_market_pillars"
+"$surfaceprop" 				"concrete"
+"%keywords" 				"ins2, pillar, concrete, market"
+}

@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+
+"$basetexture" 				"models/static_fittings/prop_cathedral_bottom_b"
+"$bumpmap"   				"models/static_fittings/prop_cathedral_bottom_b_norm"
+"$normalmapalphaenvmapmask" "1"
+"$surfaceprop" 				"concrete"
+//"$detail" 					"detail\concrete_detail_01"
+//"$detailscale" 				"15"
+//"$detailblendfactor" 		".1"
+"$envmap" 					"env_cubemap"
+"$envmaptint" 				"[.7 .7 .7]"
+"$envmapcontrast" 			".6"
+"$blendtintbybasealpha"			"1"
+"%keywords" 				"doi, cathedral, church, plaster"
+
+}

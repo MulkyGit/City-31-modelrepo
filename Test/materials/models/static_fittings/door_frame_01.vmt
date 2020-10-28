@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/static_fittings/door_frame_01"
+	
+	"$phong" 					"1"
+	"$phongexponent"				"16"
+	"$phongboost" 				".5"	
+	"$phongfresnelranges"		"[1 5 3]"
+	"$phongalbedotint" 			"1"
+	
+	"$blendtintbybasealpha"	"1"
+}

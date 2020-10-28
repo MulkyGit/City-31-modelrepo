@@ -1,0 +1,19 @@
+"SurfaceGGX"
+{
+	"$basetexture"		"models\static_props\cableset_dm"
+	"$bumpmap" 			"models\static_props\cableset_nm"
+	"$phongexponenttexture"		"models\static_props\cableset_exp"
+	"$masks"					"models\static_props\cableset_exp"
+	"$roughnessmultiplier" 		"0.5"
+	"$pbr"						"1"
+	"$metal"						"0"
+	
+	"$phong"					"2"
+	"$phongboost"				"46"
+	"$phongexponent"			"46"
+	
+	"$envmapfresnel"			"0.5"
+	"$envmap"					"env_cubemap"
+	"$envmaptint"				"[0.09 0.09 0.09]"
+	"$normalmapalphaenvmapmask"	"1"
+}

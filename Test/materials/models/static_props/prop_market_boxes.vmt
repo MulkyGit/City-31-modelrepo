@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+
+"$basetexture"				"models\static_props\prop_market_boxes"
+"$surfaceprop" 				"cardboard"
+"%keywords" 				"ins2, boxes, market"
+
+
+}

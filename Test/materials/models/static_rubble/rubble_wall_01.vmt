@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/static_rubble/rubble_wall_01"
+	//"$bumpmap" 	"models/static_rubble/rubble_wall_01_norm"
+
+}

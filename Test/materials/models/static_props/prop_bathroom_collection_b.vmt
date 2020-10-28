@@ -1,0 +1,9 @@
+"SurfaceGGX"
+{
+	"$basetexture"				"models\static_props\prop_bathroom_collection_b"
+	"$bumpmap" 				"models\static_props\prop_bathroom_collection_b_norm"
+	"$phongexponenttexture"			"models\static_props\prop_bathroom_collection_b_mask"
+    
+  	"$roughnessmultiplier"       	 ".8"
+    	"$metal"                    	"0"
+}

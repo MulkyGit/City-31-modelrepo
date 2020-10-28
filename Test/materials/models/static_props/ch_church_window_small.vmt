@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\static_props\ch_church_window_small"
+//	"$bumpmap" 					"models\static_props\ch_church_window_big_small"
+//	"$halflambert"				"0"
+
+	
+//	$envmap env_cubemap
+//	$normalmapalphaenvmapmask 1
+//	$envmaptint "[1 1 1]"
+//	$envmapcontrast "1"
+//	$envmapsaturation "1"
+//	$envmapsphere 1
+//	"$phong" 					"1"
+//	"$phongexponent"				"16"
+//	"$phongboost" 				".5"	
+//	"$phongfresnelranges"		"[1 5 3]"
+//	"$phongalbedotint" 			"1"
+	$rimlight               1
+	$rimlightexponent       32
+	$rimlightboost          .05	
+}
+

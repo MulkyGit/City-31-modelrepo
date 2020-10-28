@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/static_props/ch_bench_01_dm"
+	"$bumpmap"	"models/static_props/ch_bench_01_nm"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$blendtintbybasealpha" "1"
+
+	"$halflambert"				"0"
+	"$envmapfresnel" 	        "0"
+	"$envmapfresnelminmaxexp"   "[0 0 0]"
+	"$envmaptint" 				"[.008 .008 .008]"
+	//"$envmapsaturation" 		"1"
+	"$phong" 					"1"
+	"$phongexponent"			"40"
+	"$phongboost" 				".5"	
+	"$phongfresnelranges"		"[1 5 3]"
+	//"$phongalbedotint" 			"1"
+	"$phongtint" 			"[ .5 .7 1]"	
+}

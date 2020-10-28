@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\static_fortifications\chainlink_utility_pole"
+//	"$halflambert"				"0"
+// 	$envmap env_cubemap
+//	$basealphaenvmapmask 1
+//	$envmaptint "[0.8 0.8 0.8]"
+//	$envmapcontrast "1"
+//	$envmapsaturation "1"
+
+      
+// $rimlight               1
+// $rimlightexponent       30
+// $rimlightboost          1
+	
+
+}
+
+

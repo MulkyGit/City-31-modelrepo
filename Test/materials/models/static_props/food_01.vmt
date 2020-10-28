@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\static_props\food_01"
+	"$bumpmap" 				"models\static_props\food_01_norm"
+}
+
+

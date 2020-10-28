@@ -1,0 +1,28 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/static_furniture/locker01_a"
+	"$bumpmap" "models/static_furniture/locker01_normal"
+	
+	$envmap env_cubemap
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.02 0.02 0.02]"
+	$envmapcontrast ".01"
+	$envmapsaturation ".02"
+	
+	"$detail" 				"detail/metal_detail_01"
+	"$detailscale" 			"[ 8 8 ]"
+	"$detailblendfactor"	"0.4"
+	
+	"$phong" 					"1"
+	"$phongexponent"			"1"
+	"$phongboost" 				".5"	
+	"$phongfresnelranges"		"[0 .5 1]"
+	
+ //  "$halflambert"				"1"     
+	$rimlight               1
+	$rimlightexponent       14
+	$rimlightboost          .2
+
+	
+	"%keywords" "Remastered"
+}

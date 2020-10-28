@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\static_props\prop_barrack_shelve"
+	"$bumpmap" 				"models\static_props\prop_barrack_shelve_norm"
+}
+
+

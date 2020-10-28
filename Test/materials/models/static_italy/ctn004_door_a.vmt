@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/static_italy/doi_ctn004_door_a_D"
+	"$bumpmap" 		"models/static_italy/doi_ctn004_door_a_normal2"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" 					"1"
+	"$phongexponent"				"16"
+	"$phongboost" 				".5"	
+	"$phongfresnelranges"		"[1 5 3]"
+	"$phongalbedotint" 			"1"
+	
+	"$blendtintbybasealpha"	"1"
+}

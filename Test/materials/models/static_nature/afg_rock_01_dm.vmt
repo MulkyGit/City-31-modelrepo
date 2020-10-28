@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\static_nature\afg_rock_01_dm"
+	"$bumpmap" 					"models\static_nature\afg_rock_01_nm"
+//	"$phong" 					"1"
+	
+	//"$phongexponenttexture" 	""
+//	"$phongexponent"			"10"
+//	"$phongboost" 				".15"	
+//	"$phongfresnelranges"		"[1 5 3]"
+//	"$phongalbedotint" 			"1"
+
+//	$detail detail\ir_concrete04_detail
+//	$detailscale 8
+//	$detailblendfactor 2
+//	$detailblendmode 0
+      
+//	$rimlight               1
+//	$rimlightexponent       50
+//	$rimlightboost          .2
+	
+	
+}
+

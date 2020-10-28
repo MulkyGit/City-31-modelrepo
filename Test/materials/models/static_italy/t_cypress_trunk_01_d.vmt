@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"models/static_italy/t_cypress_trunk_01_d"
+		
+
+// 	$envmap env_cubemap
+//	$normalmapalphaenvmapmask 1
+//	$envmaptint "[0.7 0.7 0.7]"
+//	$envmapcontrast "0.9"
+//	$envmapsaturation ".4"
+//	$envmapsphere 1
+}

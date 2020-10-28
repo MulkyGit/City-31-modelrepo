@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+
+"$basetexture"				"models\static_props\prop_market_pallet"
+"$surfaceprop" 				"wood"
+"$detail" 					"detail\wood_detail_01"
+"$detailscale" 				"15"
+"$detailblendfactor" 			".225"
+"$blendtintbybasealpha"			"1"
+"%keywords" 				"ins2, pallet, market"
+
+
+}

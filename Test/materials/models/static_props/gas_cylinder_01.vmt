@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\static_props\gas_cylinder_01"
+	"$bumpmap" 					"models\static_props\gas_cylinder_01_normal"
+	"$halflambert"				"0"
+	$envmap env_cubemap
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.09 0.05 0.05]"
+	$envmapcontrast "1"
+	$envmapsaturation ".11"
+//	$envmapsphere 1
+	"$phong" 					"1"
+	"$phongexponent"				"16"
+	"$phongboost" 				".5"	
+	"$phongfresnelranges"		"[1 5 3]"
+	"$phongalbedotint" 			"1"
+	$rimlight               1
+	$rimlightexponent       32
+	$rimlightboost          .05	
+}
+

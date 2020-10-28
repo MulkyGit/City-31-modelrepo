@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/static_furniture/barber_ceiling_fan"
+	"$bumpmap" "models/static_furniture/barber_ceiling_fan_normal"
+	
+	"$halflambert"				"0"
+	
+	$envmap env_cubemap
+	$normalmapalphaenvmapmask 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "{50 50 50}"
+	
+	"$phong" 					"1"
+	"$phongtint" 			"[.6 .8 1]"
+	"$phongexponent"			"25"
+	"$phongboost" 				"0.3"	
+	"$phongfresnelranges"		"[0.1 .5 1]"
+}

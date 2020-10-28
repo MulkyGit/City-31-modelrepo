@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\static_military\sandbag_wall_short_dm"
+//	"$bumpmap" 					"models\static_military\sandbag_wall_short_nm"
+	"$phong" 					"0"
+	
+	"$phongexponenttexture" 	""
+	"$phongexponent"			"10"
+	"$phongboost" 				".01"	
+	"$phongfresnelranges"		"[1 5 3]"
+	"$phongalbedotint" 			"1"
+
+	$detail detail\ir_fabric_detail
+	$detailscale 10
+	$detailblendfactor 3
+	$detailblendmode 0
+      
+	$rimlight               0
+	$rimlightexponent       100
+	$rimlightboost          .2
+	
+	
+}
+
