@@ -1,0 +1,32 @@
+"VertexLitGeneric"
+{
+
+	"$model"		"1"
+
+	//"$nocull"		"1"
+
+	//"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" "1"
+	//"$envmapfresnel" ".45"
+	//"$envmaptint"	"[.09 .09 .09]"
+
+	"$baseTexture" 		"themask/SBMP/Env_Objects/Railing/greece_parapet_01_col"
+	"$translucent"		"0"
+	"$alphatest" 		"0"
+
+	"$bumpmap" 			"themask/SBMP/Env_Objects/Railing/greece_parapet_01_col_N"
+
+	"$phong" "1"
+	//"$phongexponent" "16"
+	"$phongexponenttexture" "themask/SBMP/Env_Objects/Railing/greece_parapet_01_col_S"
+	//"$phongwarptexture"		"themask/SBMP/shared/anisotropic"
+	"$phongalbedotint" "1"
+	"$phongboost" "8" 
+	"$phongfresnelranges"	"[.2 1 3]"
+
+	"$detail" "themask/SBMP/shared/detail/detail_concrete"
+	$detailscale 8
+	$detailblendfactor .75
+	$detailblendmode 0
+
+}

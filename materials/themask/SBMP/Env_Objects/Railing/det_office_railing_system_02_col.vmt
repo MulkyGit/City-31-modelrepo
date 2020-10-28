@@ -1,0 +1,31 @@
+"VertexLitGeneric"
+{
+
+	"$model"		"1"
+
+	//"$nocull"		"1"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapfresnel" ".15"
+	"$envmaptint"	"[.04 .04 .04]"
+
+	"$baseTexture" 		"themask/SBMP/Env_Objects/Railing/det_office_railing_system_02_col"
+	"$translucent"		"0"
+	"$alphatest" 		"0"
+
+	"$bumpmap" 			"themask/SBMP/Env_Objects/Railing/det_office_railing_system_02_col_N"
+
+	"$phong" "1"
+	//"$phongexponent" "16"
+	"$phongexponenttexture" "themask/SBMP/Env_Objects/Railing/det_office_railing_system_02_col_S"
+	"$phongalbedotint" "1"
+	"$phongboost" "8" 
+	"$phongfresnelranges"	"[.2 1 3]"
+
+	//"$detail" "themask/SBMP/Env_Objects/Railing/det_office_railing_system_02_col"
+	//$detailscale 1
+	//$detailblendfactor 0
+	//$detailblendmode 0
+
+}

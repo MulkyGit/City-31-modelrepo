@@ -1,0 +1,32 @@
+"VertexLitGeneric"
+{
+
+	"$model"		"1"
+
+	//"$nocull"		"1"
+
+	"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" "1"
+	"$envmapfresnel" ".25"
+	"$envmaptint"	"[.12 .12 .12]"
+
+	"$baseTexture" 		"themask/SBMP/Env_Objects/Railing/glass_railing_frame_col"
+	"$translucent"		"0"
+	"$alphatest" 		"0"
+
+	"$bumpmap" 			"themask/SBMP/Env_Objects/Railing/glass_railing_frame_col_N"
+
+	"$phong" "1"
+	//"$phongexponent" "16"
+	"$phongexponenttexture" "themask/SBMP/Env_Objects/Railing/glass_railing_frame_col_S"
+	"$phongwarptexture"		"themask/SBMP/shared/anisotropic"
+	"$phongalbedotint" "1"
+	"$phongboost" "5" 
+	"$phongfresnelranges"	"[.2 .4 .5]"
+
+	//"$detail" "themask/SBMP/Env_Objects/Railing/glass_railing_frame_col"
+	//$detailscale 1
+	//$detailblendfactor 0
+	//$detailblendmode 0
+
+}
