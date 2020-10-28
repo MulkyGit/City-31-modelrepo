@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+
+"$basetexture"				"models\static_props\prop_facade_window"
+"$surfaceprop" 				"window"
+"%keywords" 				"ins2, wood, window"
+
+
+}

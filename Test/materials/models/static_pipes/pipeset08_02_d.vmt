@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models\static_pipes\pipeset08_02_d"
+	"$bumpmap" 			"models\static_pipes\Pipeset08_nm"
+//	"$bumpmap"			"dev/flat_normal"
+	$envmap env_cubemap
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.05 0.05 0.05]"
+	$envmapcontrast "1"
+	$envmapsaturation ".2"
+//	$detail detail\metal_detail
+//	$detailscale 09
+//	$detailblendfactor 2
+//	$detailblendmode 0
+	"$phong" 					"1"
+	"$phongexponent"				"14"
+	"$phongboost" 				"1"	
+	"$phongfresnelranges"		"[1 5 3]"
+ //  "$halflambert"				"1"     
+	$rimlight               1
+	$rimlightexponent       14
+	$rimlightboost          .8
+}
+
+

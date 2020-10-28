@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+"$basetexture"				"models\static_props\prop_interior_tables_b"
+"$surfaceprop" 				"wood"
+"$detail" 					"detail\wood_detail_01"
+"$detailscale" 				"15"
+"$detailblendfactor" 		".225"
+"%keywords" 				"ins2, wood, table, ministry, embassy"
+}

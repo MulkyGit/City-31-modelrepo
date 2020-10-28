@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models/static_furniture/prop_furniture_bookshelf"
+	"$bumpmap"		"models/static_furniture/prop_furniture_bookshelf_norm.vtf"
+}

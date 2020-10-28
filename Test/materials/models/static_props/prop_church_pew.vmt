@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\static_props\prop_church_pew"
+	"$bumpmap" 				"models\static_props\prop_church_pew_norm"
+}
+
+

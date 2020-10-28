@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\static_fortifications\chainlink_barbed_wire"
+	"$nocull" 1
+	"$alphatest" 1
+	//"$translucent" 1 
+	"$allowalphatocoverage" 1
+		"$alphatestreference"	".2"
+}
+
+

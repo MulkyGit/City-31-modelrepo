@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+
+"$basetexture"				"models\static_props\prop_static_paintcans"
+"$surfaceprop" 				"metal"
+"%keywords" 				"ins2, metal, market"
+
+
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$basetexture	"models/static_military/prop_military_crate_a.vtf"
+	$bumpmap		"models/static_military/prop_military_crate_a_norm.vtf"
+}

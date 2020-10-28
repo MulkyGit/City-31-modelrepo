@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+"$basetexture" 				"models/static_fittings/prop_italy_stoops"
+//"$bumpmap"   				"models/static_fittings/prop_italy_stoops_norm"
+"$surfaceprop" 				"concrete"
+"%keywords" 				"doi, stoop, concrete"
+}

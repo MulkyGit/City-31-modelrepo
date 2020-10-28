@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/static_fittings/door_skin01"
+	"$bumpmap" 		"models/static_fittings/door_skin01_normal"
+
+	"$phong" 					"1"
+	"$phongexponent"				"16"
+	"$phongboost" 				".5"	
+	"$phongfresnelranges"		"[1 5 3]"
+	"$phongalbedotint" 			"1"
+	
+	"$blendtintbybasealpha"	"1"
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+"$basetexture"		"models\static_fittings\light04_on"
+$selfillum 1
+}
+
+

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\generic/mino_pallets"
+	"$surfaceprop" "wood"
+	"%keywords" "Insurgency"
+}

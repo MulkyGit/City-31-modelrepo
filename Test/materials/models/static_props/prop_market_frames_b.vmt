@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+
+"$basetexture"				"models\static_props\prop_market_frames_b"
+"$surfaceprop" 				"plaster"
+"$detail" 					"detail\plaster_detail_01"
+"$detailscale" 				"15"
+"$detailblendfactor" 			".225"
+"%keywords" 				"ins2, plaster, frames"
+
+}

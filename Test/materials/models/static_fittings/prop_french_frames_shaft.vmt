@@ -1,0 +1,10 @@
+UnlitGeneric
+{
+	"$basetexture"	"models/static_fittings/prop_french_frames_shaft"
+	"$additive"		"1"
+	"$translucent" "1" 
+	"$nocull" "1"
+	"$depthfade" "1"
+	"$model" "1"
+    	"srgb?$color2" "[.2 .2 .2]"
+}

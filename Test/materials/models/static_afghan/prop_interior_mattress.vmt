@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models/static_afghan/prop_interior_mattress"
+	"$bumpmap"   	"models/static_afghan/prop_interior_mattress_norm"
+}

@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\static_props\train_cart_01"
+	"$bumpmap" 					"models\static_props\train_cart_01_normal"
+	"$halflambert"				"0"
+	
+	"$BasemapLuminancePhongMask" 	"1"
+	"$phong" 						"1"
+	"$phongexponent"				"40"
+	"$phongboost" 					"4"	
+	"$phongfresnelranges"			"[.75 .25 .5]"
+	"$phongtint"					"[1 .8 .5]"
+	
+}
+

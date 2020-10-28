@@ -1,0 +1,11 @@
+"SurfaceGGX"
+{
+// INPUT MAPS
+	"$basetexture"					"models\static_props\rosetta_01_dm"
+	"$bumpmap" 						"models\static_props\rosetta_01_nm"
+	"$phongexponenttexture"         				"models\static_props\rosetta_01_mk"
+
+// MATERIAL PROPORTIES
+	"$metal"						"1"
+	"$roughnessmultiplier"			"1"
+}

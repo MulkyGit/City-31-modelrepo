@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\static_props\prop_crates_small"
+	"$bumpmap" 				"models\static_props\prop_crates_small_norm"
+}
+
+

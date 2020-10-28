@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\static_fittings\electric_stuff"
+	"$bumpmap" 					"models\static_fittings\electric_stuff_normal"
+
+	"$halflambert"				"0"
+//	$envmap env_cubemap
+//	$normalmapalphaenvmapmask 1
+//	$envmaptint "[0.4 0.4 0.4]"
+//	$envmapcontrast "1"
+//	$envmapsaturation ".11"
+	"$phong" 					"1"
+	"$phongtint" 			"[.6 .8 1]"
+	//"$phongtint" 			"[1 .8 .6]"
+	"$phongexponent"			"25"
+	"$phongboost" 				"1"	
+	"$phongfresnelranges"		"[1 5 3]"
+}
+

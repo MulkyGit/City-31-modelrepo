@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\static_props\prop_signset_b"
+	"$bumpmap" 				"models\static_props\prop_signset_a_norm"
+}
+
+

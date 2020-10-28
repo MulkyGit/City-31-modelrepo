@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\static_fittings\metal_gate_02"
+	"$bumpmap" 					"models\static_fittings\metal_gate_02_normal"
+		
+	$phong 				"1"
+	$PhongAlbedoTint 		"1"	
+	$BasemapLuminancePhongMask	"1"
+	
+	$phongboost 			"20"
+"$phongfresnelranges"		"[1 5 3]"
+
+	$rimlight               	"1"
+	$rimlightexponent       	"30"
+	$rimlightboost          	".25"
+	"$blendtintbybasealpha"	"1"
+}
+
+

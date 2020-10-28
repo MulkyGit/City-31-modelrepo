@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\static_junk\garbage_generic_02"
+	"$bumpmap"	"effects\flat_normal"
+	"$phong" 					"1"
+	"$phongalbedotint" "1"
+	"$phongexponent"			"16"
+	"$phongboost" 				".09"	
+//	"$phongfresnelranges"		"[.5 .1 .5]"
+	$rimlight               1
+	$rimlightexponent       8
+	$rimlightboost          .25
+	
+}
+
+

@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+$basetexture "models\static_props\power_cable_1"
+$bumpmap "dev\flatnormal"
+
+$phong "1"
+$phongboost ".4"
+$phongexponent "15"
+$phongfresnelranges "[2 3 2]"
+$phongalbedotint "1"
+$selfillum "1"
+}

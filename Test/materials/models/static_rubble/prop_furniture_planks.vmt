@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/static_rubble/prop_furniture_planks"
+	"$bumpmap"		"models/static_rubble/prop_furniture_planks_norm"
+}

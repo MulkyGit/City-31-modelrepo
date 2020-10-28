@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\static_props\prop_trench_supports"
+	//"$bumpmap" 				"models\static_props\prop_trench_supports_norm"
+}
+
+

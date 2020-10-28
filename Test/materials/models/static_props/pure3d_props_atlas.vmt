@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\static_props\pure3d_props_atlas"
+//	"$bumpmap" 					"models\static_props\pure3d_props_atlas_n"
+	"$phong" 					"1"
+	"$phongexponent"				"16"
+	"$phongboost" 				".5"	
+	"$phongfresnelranges"		"[0.5 2.5 1.5]"
+	"$phongalbedotint" 			"1"
+}
+

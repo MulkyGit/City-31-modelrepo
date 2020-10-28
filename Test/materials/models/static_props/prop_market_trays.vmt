@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+
+"$basetexture"				"models\static_props\prop_market_trays"
+"$surfaceprop" 				"wood"
+"$detail" 					"detail\wood_detail_01"
+"$detailscale" 				"15"
+"$detailblendfactor" 			".225"
+"%keywords" 				"ins2, food, store, shelf, market"
+
+
+}

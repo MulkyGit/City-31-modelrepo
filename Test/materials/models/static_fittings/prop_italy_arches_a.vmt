@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+
+"$basetexture" 				"models/static_fittings/prop_italy_arches_a"
+"$bumpmap"   				"models/static_fittings/prop_italy_arches_a_norm"
+"$normalmapalphaenvmapmask" "1"
+"$surfaceprop" 				"concrete"
+"$envmap" 				"env_cubemap"
+"$envmaptint" 				"[.2 .2 .2]"
+"$envmapcontrast" 				".6"
+"$blendtintbybasealpha"			"1"
+"%keywords" 				"doi, arches, plaster"
+
+}

@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	$basetexture				"models\static_fittings\electric_equipment"	 
+		"$BasemapLuminancePhongMask" 	"1"
+	"$phong" 						"1"
+	"$phongexponent"				"40"
+	"$phongboost" 					"4"	
+	"$phongfresnelranges"			"[.75 .25 .5]"
+	"$phongtint"					"[1 .8 .5]"
+}
+
+

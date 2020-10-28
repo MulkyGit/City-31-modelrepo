@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+
+"$basetexture"				"models\static_props\prop_facade_door"
+"$surfaceprop" 				"door"
+"$blendtintbybasealpha"			"1"
+"%keywords" 				"ins2, wood, door"
+
+
+}
